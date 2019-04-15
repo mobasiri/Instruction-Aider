@@ -1,0 +1,3 @@
+version of unity that is used for the project:
+
+unity 2018.3.0f2
